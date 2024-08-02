@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋! My name is Finn and I'm student from Germany
 
 <!--
 **xFinn0666/xFinn0666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
